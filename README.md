@@ -6,6 +6,10 @@ Built an end-to-end analytics solution for a real-world OTA flight booking datas
 Dashboard Video Link:
 https://drive.google.com/file/d/123Qs0tqXatrgdi85BWoHRv8zlvMlY6Fd/view?usp=sharing
 
+---
+<img width="1840" height="814" alt="Screenshot 2026-06-22 151908" src="https://github.com/user-attachments/assets/1a898be2-5e1f-4325-bf6c-ddcc511f41f9" />
+---
+
 ## Dataset
 Industry-level OTA (Online Travel Agency) transaction data was used for analysis, including:
 - Booking and transaction details (`booking_id`, `booking_status`, `category`)
